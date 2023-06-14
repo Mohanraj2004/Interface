@@ -1,4 +1,4 @@
-## Interface
+## EX-NO-9 Interface
 
 ### Aim:
 To write a C# program using interface concept.
